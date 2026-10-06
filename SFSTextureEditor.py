@@ -1054,7 +1054,7 @@ class App(tk.Tk):
             "pack_Redstone_Atlas": True,
             "multiple": False,
             "segments": [],
-            "name": file_name,
+            "name": os.path.splitext(os.path.basename(file_name))[0],
             "hideFlags": 0
         }
 
