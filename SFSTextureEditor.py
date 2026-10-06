@@ -1035,10 +1035,10 @@ class App(tk.Tk):
                     "mode": 0,
                     "sizeMode": 0,
                     "size": 0.5,
-                    "logoHeightPercent": 1.0,
+                    "logoHeightPercent": 0.5,
                     "scaleLogoToFit": False
                 },
-                "fixedWidth": True,
+                "fixedWidth": False,
                 "fixedWidthValue": 1.0,
                 "flipToLight_X": False,
                 "flipToLight_Y": False,
