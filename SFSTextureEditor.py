@@ -1032,14 +1032,14 @@ class App(tk.Tk):
                     "size": 0.5
                 },
                 "center": {
-                    "mode": 1,
+                    "mode": 0,
                     "sizeMode": 0,
-                    "size": 4.9,
-                    "logoHeightPercent": 0.85,
+                    "size": 0.5,
+                    "logoHeightPercent": 1.0,
                     "scaleLogoToFit": False
                 },
                 "fixedWidth": True,
-                "fixedWidthValue": 3.75,
+                "fixedWidthValue": 1.0,
                 "flipToLight_X": False,
                 "flipToLight_Y": False,
                 "metalTexture": False,
